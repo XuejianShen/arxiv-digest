@@ -1,0 +1,17 @@
+{
+  "ads_library_id": "2hvI1lT2Txm315CD1U2fUg",
+  "arxiv_categories": ["astro-ph.GA", "astro-ph.CO", "astro-ph.HE"],
+  "keywords": [
+    "galaxy formation theory",
+    "self-interacting dark matter",
+    "high-redshift galaxies",
+    "hubble tension",
+    "hydrodynamic simulations"
+  ],
+  "authors_watchlist": [],
+  "top_n_deep_read": 10,
+  "sibling_window_years": 1,
+  "sibling_rows": 25,
+  "lookback_days": 1,
+  "slack_target": "self-dm"
+}

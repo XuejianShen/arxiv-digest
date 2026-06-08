@@ -1,0 +1,6 @@
+# transient API cache + per-day outputs (regenerated each run)
+data/.cache/
+data/daily/
+data/radar/
+**/__pycache__/
+*.pyc

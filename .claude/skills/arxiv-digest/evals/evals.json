@@ -1,0 +1,20 @@
+{
+  "skill_name": "arxiv-digest",
+  "notes": "Data dir with a prebuilt profile + cached daily/radar lives at ../arxiv-digest-workspace/data. For test runs, the digest is saved to a markdown file instead of posting to Slack (Slack delivery is wired separately once content is approved).",
+  "evals": [
+    {
+      "id": 0,
+      "name": "morning-digest-default",
+      "prompt": "Run my arxiv digest for this morning.",
+      "expected_output": "A relevance-ranked digest of the day's new astro-ph papers: top papers deep-read with an abstract-style summary + a specific 'why this matters to you' tied to the user's work, one-liners for the rest, and vetted missed-citation radar alerts. Grounded in real arXiv ids/links; honest about thin days and coverage caveats.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "scooped-radar-emphasis",
+      "prompt": "What's new on arXiv in my field today, and did anyone cite my competitors but not me?",
+      "expected_output": "Same digest, with the missed-citation radar foregrounded: for each flagged new paper, which sibling/contemporary of the user it cited and which of the user's papers it omitted, vetted for plausibility (weak leads dropped).",
+      "files": []
+    }
+  ]
+}
