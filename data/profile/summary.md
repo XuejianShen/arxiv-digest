@@ -1,98 +1,101 @@
 # Research profile — Xuejian (Jacob) Shen - Publication List
 
-- Papers in library: **89**
-- Papers with a sibling set: **84**
-- Total sibling papers tracked (for the missed-citation radar): **605**
+- Papers in library: **91**
+- Papers with a sibling set: **23**
+- Total sibling papers tracked (for the missed-citation radar): **159**
+- Radar restricted to lead-author papers: **Shen, Xuejian** within the top **2** authors (25 mined, 66 excluded)
 - Keyword watchlist: galaxy formation theory, self-interacting dark matter, high-redshift galaxies, hubble tension, hydrodynamic simulations
 
 ## Papers (most recent first)
 
-- **2026** · Lilie +16 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Dark Matter Speed Distributions  _( 4 siblings )_
-- **2026** · Garcia +25 · The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles  _( 2 siblings )_
-- **2026** · McClymont +17 · The THESAN-ZOOM project: mystery N/O more ─ uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at 3 < z < 12  _( 7 siblings )_
-- **2026** · Herrera +4 · Formation and Redshift Evolution of Dark Matter Spikes  _( 3 siblings )_
-- **2026** · Zier +10 · Introducing the Lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization  _( 3 siblings )_
+- **2026** · Silverman +10 · Mergers Matter: Gravothermal Collapse in Dwarf Halos with Self-Interacting Dark Matter  _( not mined — author rank )_
+- **2026** · Lilie +16 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Dark Matter Speed Distributions  _( not mined — author rank )_
+- **2026** · Garcia +25 · The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles  _( not mined — author rank )_
+- **2026** · McClymont +17 · The THESAN-ZOOM project: mystery N/O more ─ uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at 3 < z < 12  _( not mined — author rank )_
+- **2026** · Samuel +18 · Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE  _( not mined — author rank )_
+- **2026** · Wang +7 · A Universal Dance of Galactic Disks: Ubiquitous Precession and Its Implications  _( not mined — author rank )_
+- **2026** · Smith +10 · The Lumina Project: CMB Optical Depth Fluctuations from Patchy Reionization  _( not mined — author rank )_
+- **2026** · Herrera +4 · Formation and Redshift Evolution of Dark Matter Spikes  _( not mined — author rank )_
+- **2026** · Roche +11 · A Consistent Implementation of Cluster Strong Lensing in Cosmological Simulation Light Cones  _( not mined — author rank )_
 - **2026** · Shen +18 · The Lumina Project: The Demographics of Active Galactic Nuclei from Quasars to Little Red Dots at $z\geq 3$  _( 13 siblings )_
-- **2026** · Wang +7 · A Universal Dance of Galactic Disks: Ubiquitous Precession and Its Implications  _( 3 siblings )_
-- **2026** · Samuel +18 · Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE  _( 17 siblings )_
-- **2026** · Smith +10 · The Lumina Project: CMB Optical Depth Fluctuations from Patchy Reionization  _( 4 siblings )_
-- **2026** · Garcia +24 · Metallicity Gradients in Modern Cosmological Simulations. II. The Role of Bursty versus Smooth Feedback at High Redshift  _( 8 siblings )_
-- **2026** · Tran +6 · Role of prompt cusps in driving the core collapse of self-interacting dark matter halos  _( 5 siblings )_
-- **2026** · Liu +22 · How I Wonder What You Are -- JWST's Little Red Dots do not TWINKLE  _( 13 siblings )_
-- **2026** · Mandacarú Guerra +9 · Probing Atomic Dark Matter with Stellar Streams in Milky Way-Mass Galaxies  _( 4 siblings )_
-- **2026** · Sands +11 · Confronting the Diversity Problem: The Limits of Galaxy Rotation Curves as a Tool to Understand Dark Matter Profiles  _( 1 siblings )_
-- **2026** · Wang +7 · Halo assembly bias in the early Universe: a clustering probe of the origin of the Little Red Dots  _( 18 siblings )_
+- **2026** · Zier +10 · Introducing the Lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization  _( not mined — author rank )_
+- **2026** · Tran +6 · Role of prompt cusps in driving the core collapse of self-interacting dark matter halos  _( not mined — author rank )_
+- **2026** · Garcia +24 · Metallicity Gradients in Modern Cosmological Simulations. II. The Role of Bursty versus Smooth Feedback at High Redshift  _( not mined — author rank )_
+- **2026** · Liu +22 · How I Wonder What You Are -- JWST's Little Red Dots do not TWINKLE  _( not mined — author rank )_
 - **2026** · Tran +7 · Novel density profile for isothermal cores of dark matter halos  _( 10 siblings )_
-- **2026** · Garaldi +15 · Correction to: The THESAN project: public data release of radiation-hydrodynamic simulations matching reionization-era JWST observations  _( 3 siblings )_
-- **2026** · Pruto +11 · The THESAN-ZOOM project: the hidden neighbours of O I absorbers during reionization  _( 16 siblings )_
-- **2026** · Nguyen +18 · How DREAMS Are Made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds  _( 7 siblings )_
-- **2026** · Shen +12 · The THESAN-ZOOM project: star formation efficiencies in high-redshift galaxies  _( 10 siblings )_
-- **2026** · Naidu +45 · A Cosmic Miracle: A Remarkably Luminous Galaxy at zspec = 14.44 Confirmed with JWST  _( 19 siblings )_
-- **2026** · Jiang +7 · Formation of the Little Red Dots from the Core Collapse of Self-interacting Dark Matter Halos  _( 20 siblings )_
-- **2026** · McClymont +14 · Overmassive black holes in the early Universe can be explained by gas-rich, dark matter-dominated galaxies  _( 14 siblings )_
-- **2025** · Wang +14 · The THESAN-ZOOM project: star formation efficiency from giant molecular clouds to galactic scale in high-redshift starbursts  _( 6 siblings )_
-- **2025** · Garcia +25 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles  _( 4 siblings )_
-- **2025** · McClymont +11 · The THESAN-ZOOM project: central starbursts and inside-out quenching govern galaxy sizes in the early Universe  _( 14 siblings )_
-- **2025** · Rose +26 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Satellite Galaxies  _( 3 siblings )_
-- **2025** · McClymont +12 · The THESAN-ZOOM project: burst, quench, repeat ─ unveiling the evolution of high-redshift galaxies along the star-forming main sequence  _( 11 siblings )_
-- **2025** · Bulichi +9 · High-redshift AGN population in radiation-hydrodynamics simulations  _( 4 siblings )_
-- **2025** · Zier +10 · The THESAN─ZOOM project: long-term imprints of external reionization on galaxy evolution  _( 7 siblings )_
-- **2025** · Zier +10 · The THESAN-ZOOM project: Population III star formation continues until the end of reionization  _( 7 siblings )_
-- **2025** · Schechter +6 · Toward Complete Merger Identification at Cosmic Noon with Deep Learning  _( 4 siblings )_
-- **2025** · Costanza +9 · On the Sensitivity of Different Galaxy Properties to Warm Dark Matter  _( 4 siblings )_
-- **2025** · Leisher +13 · Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks  _( 5 siblings )_
-- **2025** · Rose +19 · The DREAMS Project: A New Suite of 1,024 Simulations to Contextualize the Milky Way and Assess Physics Uncertainties  _( 3 siblings )_
-- **2025** · Yu +9 · Measuring the splashback feature: Dependence on halo properties and history  _( 3 siblings )_
-- **2025** · Straight +8 · Central densities of dark matter haloes in FIRE-2 simulations of low-mass galaxies with cold dark matter and self-interacting dark matter  _( 9 siblings )_
-- **2025** · Tran +7 · Core collapse in resonant self-interacting dark matter across two decades in halo mass  _( 8 siblings )_
-- **2025** · Schechter +7 · Beyond the Brightest: A Deep Learning Approach to Identifying Major and Minor Galaxy Mergers in CANDELS at $z \sim 1$  _( 13 siblings )_
-- **2025** · Kannan +13 · Introducing the THESAN-ZOOM project: radiation-hydrodynamic simulations of high-redshift galaxies with a multi-phase interstellar medium  _( 8 siblings )_
-- **2025** · Shen +6 · The Cosmic Rush Hour: Rapid Formation of Bright, Massive, Disky, Star-Forming Galaxies as Signatures of Early-Universe Physics  _( 10 siblings )_
-- **2025** · Jamieson +9 · The THESAN project: tracking the expansion and merger histories of ionized bubbles during the Epoch of Reionization  _( 13 siblings )_
-- **2025** · Sun +3 · The effects of projection on measuring the splashback feature  _( 6 siblings )_
-- **2025** · Bendavid +11 · SubMIT: A Physics Analysis Facility at MIT  _( 9 siblings )_
-- **2025** · Jiang +9 · Formation and Environmental Context of Giant Bulgeless Disk Galaxies in the Early Universe: Insights from Cosmological Simulations  _( 12 siblings )_
-- **2025** · Roy +6 · Aggressively Dissipative Dark Dwarfs: The Effects of Atomic Dark Matter on the Inner Densities of Isolated Dwarf Galaxies  _( 3 siblings )_
-- **2025** · Shen +4 · Massive Black Holes Seeded by Dark Matter -- Implications for Little Red Dots and Gravitational Wave Signatures  _( 14 siblings )_
-- **2025** · Naidu +17 · How I wonder what you are - do JWST's Little Red Dots twinkle? Testing broad-line and continuum variability on week, month, and six-month timescales  _( 21 siblings )_
-- **2025** · Narayanan +10 · The Ultraviolet Slopes of Early Universe Galaxies: The Impact of Bursty Star Formation, Dust, and Nebular Continuum Emission  _( 16 siblings )_
+- **2026** · Sands +11 · Confronting the Diversity Problem: The Limits of Galaxy Rotation Curves as a Tool to Understand Dark Matter Profiles  _( not mined — author rank )_
+- **2026** · Wang +7 · Halo assembly bias in the early Universe: a clustering probe of the origin of the Little Red Dots  _( not mined — author rank )_
+- **2026** · Mandacarú Guerra +9 · Probing Atomic Dark Matter with Stellar Streams in Milky Way-Mass Galaxies  _( not mined — author rank )_
+- **2026** · Garaldi +15 · Correction to: The THESAN project: public data release of radiation-hydrodynamic simulations matching reionization-era JWST observations  _( not mined — author rank )_
+- **2026** · Nguyen +18 · How DREAMS Are Made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds  _( not mined — author rank )_
+- **2026** · Pruto +11 · The THESAN-ZOOM project: the hidden neighbours of O I absorbers during reionization  _( not mined — author rank )_
+- **2026** · Shen +12 · The THESAN-ZOOM project: star formation efficiencies in high-redshift galaxies  _( 9 siblings )_
+- **2026** · McClymont +14 · Overmassive black holes in the early Universe can be explained by gas-rich, dark matter-dominated galaxies  _( not mined — author rank )_
+- **2026** · Naidu +45 · A Cosmic Miracle: A Remarkably Luminous Galaxy at zspec = 14.44 Confirmed with JWST  _( not mined — author rank )_
+- **2026** · Jiang +7 · Formation of the Little Red Dots from the Core Collapse of Self-interacting Dark Matter Halos  _( not mined — author rank )_
+- **2025** · Wang +14 · The THESAN-ZOOM project: star formation efficiency from giant molecular clouds to galactic scale in high-redshift starbursts  _( 5 siblings )_
+- **2025** · McClymont +11 · The THESAN-ZOOM project: central starbursts and inside-out quenching govern galaxy sizes in the early Universe  _( not mined — author rank )_
+- **2025** · Garcia +25 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles  _( not mined — author rank )_
+- **2025** · Rose +26 · The DREAMS Project: Disentangling the Impact of Halo-to-Halo Variance and Baryonic Feedback on Milky Way Satellite Galaxies  _( not mined — author rank )_
+- **2025** · Costanza +9 · On the Sensitivity of Different Galaxy Properties to Warm Dark Matter  _( not mined — author rank )_
+- **2025** · Yu +9 · Measuring the splashback feature: Dependence on halo properties and history  _( not mined — author rank )_
+- **2025** · Schechter +6 · Toward Complete Merger Identification at Cosmic Noon with Deep Learning  _( not mined — author rank )_
+- **2025** · Leisher +13 · Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks  _( not mined — author rank )_
+- **2025** · Rose +19 · The DREAMS Project: A New Suite of 1,024 Simulations to Contextualize the Milky Way and Assess Physics Uncertainties  _( not mined — author rank )_
+- **2025** · McClymont +12 · The THESAN-ZOOM project: burst, quench, repeat ─ unveiling the evolution of high-redshift galaxies along the star-forming main sequence  _( not mined — author rank )_
+- **2025** · Zier +10 · The THESAN─ZOOM project: long-term imprints of external reionization on galaxy evolution  _( not mined — author rank )_
+- **2025** · Bulichi +9 · High-redshift AGN population in radiation-hydrodynamics simulations  _( not mined — author rank )_
+- **2025** · Zier +10 · The THESAN-ZOOM project: Population III star formation continues until the end of reionization  _( not mined — author rank )_
+- **2025** · Straight +8 · Central densities of dark matter haloes in FIRE-2 simulations of low-mass galaxies with cold dark matter and self-interacting dark matter  _( not mined — author rank )_
+- **2025** · Kannan +13 · Introducing the THESAN-ZOOM project: radiation-hydrodynamic simulations of high-redshift galaxies with a multi-phase interstellar medium  _( not mined — author rank )_
+- **2025** · Schechter +7 · Beyond the Brightest: A Deep Learning Approach to Identifying Major and Minor Galaxy Mergers in CANDELS at $z \sim 1$  _( not mined — author rank )_
+- **2025** · Tran +7 · Core collapse in resonant self-interacting dark matter across two decades in halo mass  _( 10 siblings )_
+- **2025** · Shen +6 · The Cosmic Rush Hour: Rapid Formation of Bright, Massive, Disky, Star-Forming Galaxies as Signatures of Early-Universe Physics  _( 11 siblings )_
+- **2025** · Jamieson +9 · The THESAN project: tracking the expansion and merger histories of ionized bubbles during the Epoch of Reionization  _( not mined — author rank )_
+- **2025** · Sun +3 · The effects of projection on measuring the splashback feature  _( not mined — author rank )_
+- **2025** · Bendavid +11 · SubMIT: A Physics Analysis Facility at MIT  _( not mined — author rank )_
+- **2025** · Roy +6 · Aggressively Dissipative Dark Dwarfs: The Effects of Atomic Dark Matter on the Inner Densities of Isolated Dwarf Galaxies  _( 4 siblings )_
+- **2025** · Jiang +9 · Formation and Environmental Context of Giant Bulgeless Disk Galaxies in the Early Universe: Insights from Cosmological Simulations  _( not mined — author rank )_
+- **2025** · Naidu +17 · How I wonder what you are - do JWST's Little Red Dots twinkle? Testing broad-line and continuum variability on week, month, and six-month timescales  _( not mined — author rank )_
+- **2025** · Narayanan +10 · The Ultraviolet Slopes of Early Universe Galaxies: The Impact of Bursty Star Formation, Dust, and Nebular Continuum Emission  _( not mined — author rank )_
+- **2025** · Shen +4 · Massive Black Holes Seeded by Dark Matter -- Implications for Little Red Dots and Gravitational Wave Signatures  _( 16 siblings )_
 - **2025** · Roy +6 · Aggressively Dissipative Dark Sectors: Simulating and Modeling the Effects of Atomic Dark Matter on the Inner Densities of Dwarf Galaxies  _( 0 siblings )_
-- **2025** · Feldmann +13 · Elevated UV luminosity density at Cosmic Dawn explained by non-evolving, weakly mass-dependent star formation efficiency  _( 14 siblings )_
-- **2025** · Schechter +4 · NeurIPSCosmicNoonMergerID  _( 2 siblings )_
+- **2025** · Feldmann +13 · Elevated UV luminosity density at Cosmic Dawn explained by non-evolving, weakly mass-dependent star formation efficiency  _( not mined — author rank )_
+- **2025** · Schechter +4 · NeurIPSCosmicNoonMergerID  _( not mined — author rank )_
 - **2024** · Shen +14 · The THESAN project: galaxy sizes during the epoch of reionization  _( 7 siblings )_
-- **2024** · Shen +4 · Early galaxies and early dark energy: a unified solution to the hubble tension and puzzles of massive bright galaxies revealed by JWST  _( 12 siblings )_
-- **2024** · Roche +9 · Brightest Cluster Galaxy Offsets in Cold Dark Matter  _( 6 siblings )_
-- **2024** · Tran +5 · Gravothermal catastrophe in resonant self-interacting dark matter models  _( 7 siblings )_
-- **2024** · Leonard +7 · Varying primordial state fractions in exo- and endothermic SIDM simulations of Milky Way-mass haloes  _( 4 siblings )_
-- **2024** · Garaldi +15 · The THESAN project: public data release of radiation-hydrodynamic simulations matching reionization-era JWST observations  _( 7 siblings )_
-- **2024** · Gemmell +6 · Dissipative Dark Substructure: The Consequences of Atomic Dark Matter on Milky Way Analog Subhalos  _( 3 siblings )_
+- **2024** · Shen +4 · Early galaxies and early dark energy: a unified solution to the hubble tension and puzzles of massive bright galaxies revealed by JWST  _( 13 siblings )_
+- **2024** · Roche +9 · Brightest Cluster Galaxy Offsets in Cold Dark Matter  _( not mined — author rank )_
+- **2024** · Tran +5 · Gravothermal catastrophe in resonant self-interacting dark matter models  _( not mined — author rank )_
+- **2024** · Garaldi +15 · The THESAN project: public data release of radiation-hydrodynamic simulations matching reionization-era JWST observations  _( not mined — author rank )_
+- **2024** · Leonard +7 · Varying primordial state fractions in exo- and endothermic SIDM simulations of Milky Way-mass haloes  _( not mined — author rank )_
 - **2024** · Shen +5 · Dissipative Dark Matter on FIRE. II. Observational Signatures and Constraints from Local Dwarf Galaxies  _( 4 siblings )_
-- **2024** · Morishita +9 · Enhanced Subkiloparsec-scale Star Formation: Results from a JWST Size Analysis of 341 Galaxies at 5 < z < 14  _( 12 siblings )_
-- **2024** · Shen +1 · Understanding galaxy formation at cosmic dawn  _( 10 siblings )_
-- **2024** · Waters +11 · Gas Morphology of Milky Way─like Galaxies in the TNG50 Simulation: Signals of Twisting and Stretching  _( 3 siblings )_
-- **2024** · Shen +3 · Disruption of Dark Matter Minihalos in the Milky Way Environment: Implications for Axion Miniclusters and Early Matter Domination  _( 0 siblings )_
+- **2024** · Gemmell +6 · Dissipative Dark Substructure: The Consequences of Atomic Dark Matter on Milky Way Analog Subhalos  _( not mined — author rank )_
+- **2024** · Morishita +9 · Enhanced Subkiloparsec-scale Star Formation: Results from a JWST Size Analysis of 341 Galaxies at 5 < z < 14  _( not mined — author rank )_
+- **2024** · Shen +1 · Understanding galaxy formation at cosmic dawn  _( 11 siblings )_
+- **2024** · Waters +11 · Gas Morphology of Milky Way─like Galaxies in the TNG50 Simulation: Signals of Twisting and Stretching  _( not mined — author rank )_
+- **2024** · Shen +3 · Disruption of Dark Matter Minihalos in the Milky Way Environment: Implications for Axion Miniclusters and Early Matter Domination  _( 1 siblings )_
 - **2024** · Shen +10 · THESAN-HR: galaxies in the Epoch of Reionization in warm dark matter, fuzzy dark matter, and interacting dark matter  _( 9 siblings )_
-- **2023** · Sun +3 · Seen and unseen: bursty star formation and its implications for observations of high-redshift galaxies with JWST  _( 8 siblings )_
-- **2023** · Hopkins +5 · Novel conservative methods for adaptive force softening in collisionless and multispecies N-body simulations  _( 1 siblings )_
+- **2023** · Sun +3 · Seen and unseen: bursty star formation and its implications for observations of high-redshift galaxies with JWST  _( not mined — author rank )_
 - **2023** · Shen +4 · The impact of UV variability on the abundance of bright galaxies at z ≥ 9  _( 10 siblings )_
-- **2023** · Sun +5 · Bursty Star Formation Naturally Explains the Abundance of Bright Galaxies at Cosmic Dawn  _( 4 siblings )_
-- **2023** · Hopkins +19 · What causes the formation of discs and end of bursty star formation?  _( 2 siblings )_
+- **2023** · Hopkins +5 · Novel conservative methods for adaptive force softening in collisionless and multispecies N-body simulations  _( not mined — author rank )_
+- **2023** · Sun +5 · Bursty Star Formation Naturally Explains the Abundance of Bright Galaxies at Cosmic Dawn  _( not mined — author rank )_
+- **2023** · Hopkins +19 · What causes the formation of discs and end of bursty star formation?  _( not mined — author rank )_
 - **2023** · Roy +5 · Simulating Atomic Dark Matter in Milky Way Analogs  _( 1 siblings )_
-- **2023** · Jiang +10 · A semi-analytic study of self-interacting dark-matter haloes with baryons  _( 3 siblings )_
-- **2023** · Jiang +10 · SIDM: Density profiles of self-interacting dark-matter halos with inhabitant galaxies  _( 5 siblings )_
-- **2023** · Waters +11 · Gas Morphology of Milky Way-like Galaxies in the TNG50: Signals of Twisting and Stretching  _( 13 siblings )_
-- **2023** · Shen · Explore the Nature of Dark Matter in the Context of Galaxy Formation  _( 2 siblings )_
+- **2023** · Jiang +10 · A semi-analytic study of self-interacting dark-matter haloes with baryons  _( not mined — author rank )_
+- **2023** · Jiang +10 · SIDM: Density profiles of self-interacting dark-matter halos with inhabitant galaxies  _( not mined — author rank )_
+- **2023** · Waters +11 · Gas Morphology of Milky Way-like Galaxies in the TNG50: Signals of Twisting and Stretching  _( not mined — author rank )_
+- **2023** · Shen · Explore the Nature of Dark Matter in the Context of Galaxy Formation  _( 1 siblings )_
 - **2022** · Shen +6 · X-ray morphology of cluster-mass haloes in self-interacting dark matter  _( 7 siblings )_
-- **2022** · Emami +10 · On the Robustness of the Velocity Anisotropy Parameter in Probing the Stellar Kinematics in Milky Way-Like Galaxies: Takeaway from TNG50 Simulation  _( 2 siblings )_
-- **2022** · Kannan +7 · The THESAN project: predictions for multitracer line intensity mapping in the epoch of reionization  _( 5 siblings )_
+- **2022** · Emami +10 · On the Robustness of the Velocity Anisotropy Parameter in Probing the Stellar Kinematics in Milky Way-Like Galaxies: Takeaway from TNG50 Simulation  _( not mined — author rank )_
+- **2022** · Kannan +7 · The THESAN project: predictions for multitracer line intensity mapping in the epoch of reionization  _( not mined — author rank )_
 - **2022** · Shen +5 · Dissipative Dark Matter on FIRE: Structural and kinematic properties of dwarf galaxies and observational constraints  _( 1 siblings )_
 - **2022** · Shen +7 · High-redshift predictions from IllustrisTNG - III. Infrared luminosity functions, obscured star formation, and dust temperature of high-redshift galaxies  _( 4 siblings )_
-- **2021** · Emami +11 · Inferring the Morphology of Stellar Distribution in TNG50: Twisted and Twisted-stretched Shapes  _( 3 siblings )_
-- **2021** · Shen +5 · Dissipative dark matter on FIRE - I. Structural and kinematic properties of dwarf galaxies  _( 6 siblings )_
-- **2021** · Xiao +3 · SMBH seeds from dissipative dark matter  _( 1 siblings )_
+- **2021** · Shen +5 · Dissipative dark matter on FIRE - I. Structural and kinematic properties of dwarf galaxies  _( 7 siblings )_
+- **2021** · Emami +11 · Inferring the Morphology of Stellar Distribution in TNG50: Twisted and Twisted-stretched Shapes  _( not mined — author rank )_
+- **2021** · Xiao +3 · SMBH seeds from dissipative dark matter  _( 2 siblings )_
 - **2020** · Shen +8 · High-redshift JWST predictions from IllustrisTNG: II. Galaxy line and continuum spectral indices and dust attenuation curves  _( 0 siblings )_
-- **2020** · Mocz +13 · Galaxy formation with BECDM - II. Cosmic filaments and first galaxies  _( 2 siblings )_
-- **2020** · Vogelsberger +10 · High-redshift JWST predictions from IllustrisTNG: dust modelling and galaxy luminosity functions  _( 0 siblings )_
+- **2020** · Mocz +13 · Galaxy formation with BECDM - II. Cosmic filaments and first galaxies  _( not mined — author rank )_
+- **2020** · Vogelsberger +10 · High-redshift JWST predictions from IllustrisTNG: dust modelling and galaxy luminosity functions  _( not mined — author rank )_
 - **2020** · Shen +6 · The bolometric quasar luminosity function at z = 0-7  _( 3 siblings )_
-- **2019** · Wang +10 · Early-type galaxy density profiles from IllustrisTNG - II. Evolutionary trend of the total density profile  _( 1 siblings )_
-- **2018** · Lovell +8 · ETHOS - an effective theory of structure formation: predictions for the high-redshift Universe - abundance of galaxies and reionization  _( 0 siblings )_
+- **2019** · Wang +10 · Early-type galaxy density profiles from IllustrisTNG - II. Evolutionary trend of the total density profile  _( not mined — author rank )_
+- **2018** · Lovell +8 · ETHOS - an effective theory of structure formation: predictions for the high-redshift Universe - abundance of galaxies and reionization  _( not mined — author rank )_

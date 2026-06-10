@@ -10,6 +10,8 @@ data directory (`$ARXIV_DIGEST_DIR/config.json`). A `config.example.json` ships 
 | `keywords` | list | Always-surface topic phrases (the watchlist), e.g. `"self-interacting dark matter"`. Used for triage terms and to never-bury a hit. |
 | `authors_watchlist` | list | Author names to always surface regardless of topic, `"Last, F"` form. |
 | `top_n_deep_read` | int | How many papers get a full-text deep read (default 10). |
+| `author_name` | string | The user's name as ADS writes it (`"Last, First"`). Used by the author-rank restriction below; matching is by last name + first initial, so `"Shen, X."` also matches. |
+| `sibling_max_author_rank` | int | Mine sibling sets ONLY for papers where `author_name` is within the first N authors (2 = first/second-author papers). The radar can only fire for papers with a sibling set, so this restricts missed-citation detection to lead-author work. 0 or absent = all papers. Changing it requires re-running `corpus.py`. |
 | `sibling_window_years` | int | A sibling B must have **appeared on arXiv** within ±this many years of paper A's arXiv appearance (default 1; measured from the arXiv id YYMM, not publication year). |
 | `sibling_rows` | int | How many `similar()` candidates to pull per paper before the window filter (default 25). |
 | `lookback_days` | int | Keep arXiv papers submitted within this many days (default 2; covers the announce delay). |

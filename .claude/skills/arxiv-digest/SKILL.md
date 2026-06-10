@@ -66,8 +66,10 @@ DATA=<the data dir>            # contains config.json
   This reads the user's ADS library, fetches their papers' abstracts, and computes each paper's
   sibling set: same-topic papers (ADS `similar()`) that appeared on arXiv within ±1 yr of the
   paper's own arXiv appearance (config `sibling_window_years`; measured from the arXiv id, not the
-  publication year). It's cached; re-running is cheap. **Refresh weekly** (or when the user
-  publishes) so new papers get a sibling set. If
+  publication year). If `sibling_max_author_rank` is set, only papers where the user
+  (`author_name`) is within the top N authors get a sibling set — the radar never fires for
+  middle-author collaboration papers. It's cached; re-running is cheap. **Refresh weekly** (or
+  when the user publishes) so new papers get a sibling set. If
   `profile/` is missing when a digest is requested, build it first.
 
 ## The morning workflow
@@ -110,9 +112,11 @@ positives from irrelevant papers):
 python3 $SKILL/radar.py --daily $DATA/daily/<date>/papers.json \
   --relevance $DATA/daily/<date>/relevance.json --rel-floor 0.3 --out-dir $DATA --date <date>
 ```
-**What an alert means** (the definition): for one of the user's papers *A*, a *sibling* *B* is a
-same-topic paper that appeared on arXiv within ±1 yr of *A*'s arXiv appearance; an alert fires when
-a new daily paper *C* cites *B* but **not** *A*. The script gives raw leads — **you vet them** into:
+**What an alert means** (the definition): for one of the user's papers *A* (only lead-author
+papers — those with the user within the top `sibling_max_author_rank` authors — when that config
+is set), a *sibling* *B* is a same-topic paper that appeared on arXiv within ±1 yr of *A*'s arXiv
+appearance; an alert fires when a new daily paper *C* cites *B* but **not** *A*. The script gives
+raw leads — **you vet them** into:
 - **Hard flags** (surface prominently): the sibling is genuinely *A*'s sub-topic and a citation to
   *A* would be expected — a defensible "you were under-cited."
 - **Soft flags** (surface, but label as borderline): plausible, but the topical link is loose or the

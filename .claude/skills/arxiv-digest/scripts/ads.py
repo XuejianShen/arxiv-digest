@@ -92,6 +92,8 @@ def normalize_ads(doc):
         rec["reference"] = doc["reference"]          # list of bibcodes this paper cites
     if doc.get("keyword"):
         rec["keyword"] = doc["keyword"]
+    if doc.get("author"):
+        rec["author"] = doc["author"]                # full author list (only present when requested in fl)
     return C.derive(rec)
 
 
